@@ -3,16 +3,6 @@
 
 # 🎮 Retro Tetris | 复古俄罗斯方块
 
-<div align="center">
-![Version](https://img.shields.io/badge/version-2.5-stable?style=flat&logo=python)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Language](https://img.shields.io/badge/python-3.8+-green?logo=python)
-![Platform](https://img.shields.io/badge/platform-Windows%2FmacOS%2FLinux-lightgrey)
-
-[中文文档](#--项目介绍) · [快速开始](#-快速开始) · [操作说明](#-操作说明) · [配置文件](#-配置说明)
-
-
-
 ---
 
 ## 🔖 项目简介
@@ -193,5 +183,4 @@ CONFIG = {
 - 📝 文档完善
 
 ---
-
 
